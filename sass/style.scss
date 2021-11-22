@@ -1,1 +1,19 @@
 @import '_bootstrap.scss';
+
+body {
+    background-color: #333;
+}
+
+.navbar {
+    background-color: rgb(231, 113, 3) !important;
+}
+
+.section-one {
+    padding-top: 55px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    background-color: transparent;
+    border: none;
+}

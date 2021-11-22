@@ -9686,3 +9686,20 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+body {
+  background-color: #333;
+}
+
+.navbar {
+  background-color: #e77103 !important;
+}
+
+.section-one {
+  padding-top: 55px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: transparent;
+  border: none;
+}
